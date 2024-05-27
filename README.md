@@ -8,7 +8,12 @@ This repository offers a comprehensive dataset, leverages data analysis techniqu
 The primary goal is to extract meaningful insights and conclusions from the provided datasets.
 
 
-
+## Table of Contents
+- [Introduction]
+- [Project]
+- [Resources]
+- [Exploratory Data Analysis]
+- [Data Preprocessing]
 
 
 
