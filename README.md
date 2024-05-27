@@ -21,6 +21,7 @@ In the current competitive and fast-paced IT business environment, managing reso
 ## Project
 
 - **Dataset:**
+
 Resource Data: Details hours logged by project teams.
 
 High-Level Team Info: Includes managerial details for each team.
