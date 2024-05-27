@@ -29,10 +29,15 @@ High-Level Team Info: Includes managerial details for each team.
 Prod Codes: Outlines Booking Type codes with categories and availability status.
 
 - **Results:**
+
 This is three page report with fully functional page navigation for better end of user experience, both pages contains visualizations, charts, and any other outputs generated from the analysis.
+
 1st Page - Home Page
+
 2nd Page - Project Financials
+
 3rd Page - Resource Utilisation
+
 
 ## Resources
 
