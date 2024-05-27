@@ -1,14 +1,11 @@
 
-
-
-
-
 ![Home](https://github.com/KatarinaOldakowski/IT_Support/assets/128411602/5a450a7c-c201-4bd1-bd43-eccbec8bd92a)
 
 
 # Welcome to the IT Support - Data Analysis Projects Repository! 📈
 
-
+This repository offers a comprehensive dataset, leverages data analysis techniques, and unveils valuable data insights. I aim to showcase my skills in data cleaning, exploration, visualization, and interpretation.
+The primary goal is to extract meaningful insights and conclusions from the provided datasets.
 
 
 
