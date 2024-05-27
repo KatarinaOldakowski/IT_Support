@@ -22,8 +22,11 @@ In the current competitive and fast-paced IT business environment, managing reso
 
 - **Dataset:**
 Resource Data: Details hours logged by project teams.
+
 High-Level Team Info: Includes managerial details for each team.
+
 Prod Codes: Outlines Booking Type codes with categories and availability status.
+
 - **Results:**
 This is three page report with fully functional page navigation for better end of user experience, both pages contains visualizations, charts, and any other outputs generated from the analysis.
 1st Page - Home Page
