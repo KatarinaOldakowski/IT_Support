@@ -6,7 +6,7 @@
 ![Home](https://github.com/KatarinaOldakowski/IT_Support/assets/128411602/5a450a7c-c201-4bd1-bd43-eccbec8bd92a)
 
 
-
+Welcome to the IT Support - Data Analysis Projects Repository! 📈
 
 
 
