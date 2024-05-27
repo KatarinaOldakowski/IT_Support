@@ -12,8 +12,6 @@ The primary goal is to extract meaningful insights and conclusions from the prov
 - [Introduction]
 - [Project]
 - [Resources]
-- [Exploratory Data Analysis]
-- [Data Preprocessing]
 
 
 ## Introduction
